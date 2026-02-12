@@ -1,0 +1,53 @@
+{
+    "albums": {
+        "1": {
+            "name": "Royalty Free Music",
+            "artist": "Various Artists",
+            "release_date": "10-11-2025",
+            "music_item_type": "Album",
+            "songs": {
+                "1": {
+                    "name": "CascadeBreathe",
+                    "artist": "NverAvetyanMusic",
+                    "release_date": "10-11-2025",
+                    "music_item_type": "Song",
+                    "album": "Royalty Free Music",
+                    "file_name": "CascadeBreathe.mp3"
+                },
+                "2": {
+                    "name": "Snowcap",
+                    "artist": "ummbrella",
+                    "release_date": "10-11-2025",
+                    "music_item_type": "Song",
+                    "album": "Royalty Free Music",
+                    "file_name": "Snowcap.mp3"
+                },
+                "3": {
+                    "name": "Running Night",
+                    "artist": "AlexMakeMusic",
+                    "release_date": "10-11-2025",
+                    "music_item_type": "Song",
+                    "album": "Royalty Free Music",
+                    "file_name": "RunningNight.mp3"
+                },
+                "4": {
+                    "name": "VlogBeatBackground",
+                    "artist": "Tunetank",
+                    "release_date": "10-11-2025",
+                    "music_item_type": "Song",
+                    "album": "Royalty Free Music",
+                    "file_name": "VlogBeatBackground.mp3"
+                }
+            }
+        }
+    },
+    "singles": {
+        "1": {
+            "name": "The Last Point",
+            "artist": "rasberrymusic",
+            "release_date": "10-11-2025",
+            "music_item_type": "Single",
+            "file_name": "TheLastPoint.mp3"
+        }
+    }
+}
