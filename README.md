@@ -5,7 +5,7 @@ NOTE:
 This was an assignment final for my collegiate python programming course.
 
 NOTE:
-All songs attached are royaltee free! Credits to the artists
+All songs attached are royalty free! Credits to the artists
 - NverAvetyanMusic
 - umbrealla
 - AlexMakeMusic
